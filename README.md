@@ -48,5 +48,4 @@ then wakes up and does it all over again. To implement an interval driven thread
 class that redefines OnTask(LPVOID). Once the thread has been instantiated, you call the
 
 SetThreadType member function with the parameter ThreadTypeIntervalDriven and an interval in
-
 milliseconds.
