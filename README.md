@@ -31,7 +31,7 @@ provides two member functions Lock and Unlock.
 
 The CEventClass class encapsulates the Windows event functions, a Windows event object, UNIX
 
-condition variable functions, and a UNIX condition variable. The functions encorporated into the
+condition variable functions, and a UNIX condition variable. The functions incorporated into the
 
 CEventClass class are SetEvent and CreateEvent under Windows, and phtread_cond_init,
 
